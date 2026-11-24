@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GestionDesNotification/GestionDesNotification.vcxproj" Id="0af9dd03-c190-4451-8320-910ee85f5c58" />
+</Solution>
